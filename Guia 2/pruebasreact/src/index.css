@@ -72,3 +72,9 @@ background-color: red;
 height: 30px;
 width: 30px;
 }
+.todo{
+  display: flex;
+}
+.todo-btn{
+  margin-left: 15px;
+}
