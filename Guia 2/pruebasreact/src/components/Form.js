@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Todo from "./Todo";
 
 const Form = () => {
-  const [todo, setTodo] = useState({ todo: "",cantidad:null },);
+  const [todo, setTodo] = useState({ todo: "",cantidad:null });
   const [todos, setTodos] = useState([
     { todo: "todo1",cantidad:5 },
     { todo: "todo2",cantidad:7 },
