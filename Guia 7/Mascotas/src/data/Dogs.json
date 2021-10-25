@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "nombre":"Dogo Argentino",
+        "localizacion":"Argentina",
+        "img":"https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5f5f75985bafe8ec5634fc87/dogo-argentino-hierba_0.jpg"
+    },
+    {
+        "id":"2",
+        "nombre":"Mucuchie",
+        "localizacion":"Venezuela",
+        "img":"https://www.dogalize.com/wp-content/uploads/2017/01/4.jpg"
+    },
+    {
+        "id":"3",
+        "nombre":"Xoloescuincle",
+        "localizacion":"México",
+        "img":"https://www.lasirena.la/__export/1571525450732/sites/debate/img/2019/10/19/xoloitzcuintle_crop1571525449633.jpg_423682103.jpg"
+    },
+    {
+        "id":"4",
+        "nombre":"Perro Venadero",
+        "localizacion":"Costa Rica",
+        "img":"https://www.especiesendemicas.com/wp-content/uploads/2019/01/Perro-venadero.jpg"
+    },
+    {
+        "id":"5",
+        "nombre":"Terrier Chileno",
+        "localizacion":"Chile",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/9/95/Chilean_Fox_Terrier.jpg"
+    }
+]

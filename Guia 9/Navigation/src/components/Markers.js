@@ -7,7 +7,7 @@ export const markers = [
     title: 'Playa el Tunco',
     description: 'Playa el Tunco en la Libertad',
     image:
-      'https://lh3.googleusercontent.com/p/AF1QipPM0zAupIxVZe7R6YSgPpt-ffLAATrxS2yN70i=s1600-h1836',
+      'https://imgs-akamai.mnstatic.com/bb/95/bb95475cbbbba206ddac6ef12a8f5984.jpg',
   },
   {
     coordinate: {
@@ -27,7 +27,7 @@ export const markers = [
     title: 'Playa el Sunzal',
     description: 'Playa el Sunzal La Libertad',
     image:
-      'https://wikisivar.com/wp-content/uploads/2018/12/Surfistas-en-playa-enSunzal.jpg',
+      'https://turismo.sv/wp-content/uploads/2019/06/el-sunzal-6.jpg',
   },
   {
     coordinate: {
@@ -37,6 +37,6 @@ export const markers = [
     title: 'Playa los Cóbanos',
     description: 'Playa los cóbanos Sonsonate',
     image:
-      'https://wikisivar.com/wp-content/uploads/2018/12/Playa-los-CobanosTurismo.jpg',
+      'https://www.elsalvadormipais.com/wp-content/uploads/2017/01/playa-los-cobanos.jpg',
   },
 ];

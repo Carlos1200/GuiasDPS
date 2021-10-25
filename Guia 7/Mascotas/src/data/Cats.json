@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "nombre":"Persa",
+        "localizacion":"Persa",
+        "img":"https://www.feelcats.com/wp-content/uploads/2015/05/Gato-Persa-FeelCats-Blog.jpg"
+    },
+    {
+        "id":"2",
+        "nombre":"Sphynx",
+        "localizacion":"Egipto",
+        "img":"https://www.feelcats.com/wp-content/uploads/2018/05/gato-sphynx-cat.jpg"
+    },
+    {
+        "id":"3",
+        "nombre":"Saimés",
+        "localizacion":"Asía",
+        "img":"https://www.feelcats.com/wp-content/uploads/2015/07/gato-siames.jpg"
+    },
+    {
+        "id":"4",
+        "nombre":"Bengalí",
+        "localizacion":"Asiático",
+        "img":"https://www.feelcats.com/wp-content/uploads/2018/04/gato-de-bengala.jpg"
+    },
+    {
+        "id":"5",
+        "nombre":"Exótico",
+        "localizacion":"Cruce",
+        "img":"https://www.feelcats.com/wp-content/uploads/2018/03/gato-persa-exotico.jpg"
+    }
+]
